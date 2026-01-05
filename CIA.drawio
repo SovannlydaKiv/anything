@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="GsN-65ZrtMdyXUgo_M-9">
+    <mxGraphModel dx="1453" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5MRkixuotIIQvSUR2KtU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="360" width="240" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="360" width="240" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="360" width="240" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="120" width="240" x="360" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="endpoint" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="security processing layer&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cloud storage" vertex="1">
+          <mxGeometry height="30" width="100" x="760" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5MRkixuotIIQvSUR2KtU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="user authentication" vertex="1">
+          <mxGeometry height="25" width="120" x="420" y="525" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
